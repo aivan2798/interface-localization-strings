@@ -46,7 +46,7 @@ export const strings = {
 		technicalTraining: 'Dev Onboarding',
 		findingWork: 'Finding Work',
 		cityByCity: 'City Guides',
-		training: 'Training',
+		training: 'Onboarding',
 		// producto o applicacion
 		product: 'Build your Product',
 		interviewing: 'Tech Interviews',
@@ -88,11 +88,11 @@ export const strings = {
 		weeklyPerformanceAnalytics: 'Weekly Performance Analytics',
 		back: 'Back',
 		next: 'Next',
-		submitProof: 'Submit Proof of Completion',
+		submitProof: 'Submit Proof',
 		notesForCoach: 'Notes for Coach',
 		coachesNotes: "Coach's Notes",
 		submitLink: 'Link (GitHub, etc)',
-		attachment: 'Attachment for Proof of Completion',
+		attachment: 'Attachment for Proof',
 		messaging: 'Pareto League Chat',
 		enterMessage: 'Type your message here',
 		achievements: 'Achievements',
@@ -162,7 +162,7 @@ export const strings = {
 			'You can click this link to start another sprint for the following-week! Keep in mind that you need to start it the Sunday before.',
 
 		// new for Primrose
-		
+
 		createTemplate: 'Create Sprint Template',
 		editTemplateName: 'Edit the Template Name',
 		startNewSprint: 'Start New Sprint',
@@ -210,7 +210,7 @@ export const strings = {
 		eventStart: 'Event Start',
 		eventEnd: 'Event End',
 		eventType: 'Event Type',
-		dashboard: 'Dashboard',
+		dashboard: 'The Arena',
 		landingText: 'What people are saying',
 		fullStackDev: 'Full Stack Dev',
 		localCommunities: 'Local Communities & Meetups',
@@ -222,38 +222,47 @@ export const strings = {
 		streetAddress: 'Street Address',
 		creditCardInfo: 'Credit Card Info',
 		myMentors: 'My Mentors',
-		apprenticeship: 'Full-Stack Apprenticehsip',
+		apprenticeship: 'Full-Stack Apprenticeship',
 		myCareer: 'MyCareer',
-		cheatsheets: "14 laminated cheat sheets, with the 20% of knowledge needed to achieve 80% of the results you are looking for.",
+		cheatsheets:
+			'14 laminated cheat sheets, with the 20% of knowledge needed to achieve 80% of the results you are looking for.',
 		flashcards: "52 flash-cards, which doubles as a deck of cards, to learn the core JavaScript methods & API's.",
-		stickers: "Workflow stickers, helping you memorize crucial terminal commands using Git, AWS Amplify & Bash.",
-		workbooks: "Interactive, physical workbook to help you ideate your capstone portfolio project/product, design wireframe mockups, model the information to store in your database, create an architecture diagram, and more.",
-		support: "Priority support & first access to new features.",
-		lifetime: "Lifetime access to the Knowledge Base & Arena",
-		purchase: "Purchase",
+		stickers: 'Workflow stickers, helping you memorize crucial terminal commands using Git, AWS Amplify & Bash.',
+		workbooks:
+			'Interactive, physical workbook to help you ideate your capstone portfolio project/product, design wireframe mockups, model the information to store in your database, create an architecture diagram, and more.',
+		support: 'Priority support & first access to new features.',
+		lifetime: 'Lifetime access to the Knowledge Base & Arena',
+		purchase: 'Purchase',
 		morningTitle: 'Morning Routine for Success',
-		morningSummary: 'Start your day with the right intentions - re-write your goals, verbalize positive affirmations & express gratitude. Eat food. Calisthenic exercises.',
+		morningSummary:
+			'Start your day with the right intentions - re-write your goals, verbalize positive affirmations & express gratitude. Eat food. Calisthenic exercises.',
 		dailyExcerciseTitle: 'Daily Exercise',
-		exerciseSummary: '20 minutes of intense excercises or 30 minutes of moderate excercise within one hour of waking up.',
+		exerciseSummary:
+			'20 minutes of intense excercises or 30 minutes of moderate excercise within one hour of waking up.',
 		meditation: 'Meditation',
 		meditationSummary: 'Right after lunch, around 1 or 2, meditate to avoid hitting the performance trough.',
 		eveningTitle: 'Evening Routine for Success',
-		eveningSummary: "Disconnect from electronics (Kindle E-Ink exception). Reflect & journal on the day's events, what you did right, what you could improve, what you are thankful for. Sleep 8 hours, if possible. 7 minimum.",
+		eveningSummary:
+			"Disconnect from electronics (Kindle E-Ink exception). Reflect & journal on the day's events, what you did right, what you could improve, what you are thankful for. Sleep 8 hours, if possible. 7 minimum.",
 		consistencyTitle: 'Consistency is King',
 		consistencySummary: 'Wake up at the same time each day, and check-in with the Pareto app within 5 minutes.',
 		deepWork: '3 hours of deep work',
-		deepWorkSummary: "Clock in, and clock out. There is no substitute for putting in the work, whether it's at your 9-5, you art, or your craft.",
-		eveningCreativity: "Evening Creativity",
-		creativitySummary: "Whether it's playing a musical instrument, reading, writing or anything in between - do something special, creative and relaxing at night.",
+		deepWorkSummary:
+			"Clock in, and clock out. There is no substitute for putting in the work, whether it's at your 9-5, you art, or your craft.",
+		eveningCreativity: 'Evening Creativity',
+		creativitySummary:
+			"Whether it's playing a musical instrument, reading, writing or anything in between - do something special, creative and relaxing at night.",
 		noSmoking: 'No Smoking or Nicotine',
-		noSmokingSummary: 'It creates short-term dopamine addiction that cripples your ability to perform at a world-class level. Respond to this shortly before your night-time routine.',
+		noSmokingSummary:
+			'It creates short-term dopamine addiction that cripples your ability to perform at a world-class level. Respond to this shortly before your night-time routine.',
 		noDrinking: 'No Alcohol on Weeknight',
-		noDrinkingSummary: 'To perform at a world-class level, you need to focus all of your focus and energy. Abstaining from alcohol during the work week helps you have better sleep and more energy the next day.',
+		noDrinkingSummary:
+			'To perform at a world-class level, you need to focus all of your focus and energy. Abstaining from alcohol during the work week helps you have better sleep and more energy the next day.',
 		eatTheFrog: 'Eat the Frog',
-		frogSummary: 'This is an expression that means to accomplish your primary daily objective. Each day, there is something that is truly important. Have you finished that thing?',
+		frogSummary:
+			'This is an expression that means to accomplish your primary daily objective. Each day, there is something that is truly important. Have you finished that thing?',
 		secondGoal: 'Eat another frog',
 		secondFrogSummary: 'There is an item that is second in importance, after eating the frog. Have you finished it?'
-
 	},
 	es: {
 		appTitle1: 'Pareto',
@@ -420,9 +429,9 @@ export const strings = {
 		arenaFourth:
 			'¡Puedes haz clic en este enlace para comenzar otro sprint para la semana siguiente! Tenga en cuenta que debe iniciarlo el domingo anterior.',
 
-			// new for translation
-			// new for Primrose
-		
+		// new for translation
+		// new for Primrose
+
 		createTemplate: 'Create Sprint Template',
 		editTemplateName: 'Edit the Template Name',
 		startNewSprint: 'Start New Sprint',
@@ -470,7 +479,7 @@ export const strings = {
 		eventStart: 'Event Start',
 		eventEnd: 'Event End',
 		eventType: 'Event Type',
-		dashboard: 'Dashboard',
+		dashboard: 'The Arena',
 		landingText: 'What people are saying',
 		fullStackDev: 'Full Stack Dev',
 		localCommunities: 'Local Communities & Meetups',
@@ -482,39 +491,49 @@ export const strings = {
 		streetAddress: 'Street Address',
 		creditCardInfo: 'Credit Card Info',
 		myMentors: 'My Mentors',
-		apprenticeship: 'Full-Stack Apprenticehsip',
+		apprenticeship: 'Full-Stack Apprenticeship',
 		myCareer: 'MyCareer',
-		cheatsheets: "14 laminated cheat sheets, with the 20% of knowledge needed to achieve 80% of the results you are looking for.",
+		cheatsheets:
+			'14 laminated cheat sheets, with the 20% of knowledge needed to achieve 80% of the results you are looking for.',
 		flashcards: "52 flash-cards, which doubles as a deck of cards, to learn the core JavaScript methods & API's.",
-		stickers: "Workflow stickers, helping you memorize crucial terminal commands using Git, AWS Amplify & Bash.",
-		workbooks: "Interactive, physical workbook to help you ideate your capstone portfolio project/product, design wireframe mockups, model the information to store in your database, create an architecture diagram, and more.",
-		support: "Priority support & first access to new features.",
-		lifetime: "Lifetime access to the Knowledge Base & Arena",
-		purchase: "Purchase",
+		stickers: 'Workflow stickers, helping you memorize crucial terminal commands using Git, AWS Amplify & Bash.',
+		workbooks:
+			'Interactive, physical workbook to help you ideate your capstone portfolio project/product, design wireframe mockups, model the information to store in your database, create an architecture diagram, and more.',
+		support: 'Priority support & first access to new features.',
+		lifetime: 'Lifetime access to the Knowledge Base & Arena',
+		purchase: 'Purchase',
 		morningTitle: 'Morning Routine for Success',
-		morningSummary: 'Start your day with the right intentions - re-write your goals, verbalize positive affirmations & express gratitude. Eat food. Calisthenic exercises.',
+		morningSummary:
+			'Start your day with the right intentions - re-write your goals, verbalize positive affirmations & express gratitude. Eat food. Calisthenic exercises.',
 		dailyExcerciseTitle: 'Daily Exercise',
-		exerciseSummary: '20 minutes of intense excercises or 30 minutes of moderate excercise within one hour of waking up.',
+		exerciseSummary:
+			'20 minutes of intense excercises or 30 minutes of moderate excercise within one hour of waking up.',
 		meditation: 'Meditation',
 		meditationSummary: 'Right after lunch, around 1 or 2, meditate to avoid hitting the performance trough.',
 		eveningTitle: 'Evening Routine for Success',
-		eveningSummary: "Disconnect from electronics (Kindle E-Ink exception). Reflect & journal on the day's events, what you did right, what you could improve, what you are thankful for. Sleep 8 hours, if possible. 7 minimum.",
+		eveningSummary:
+			"Disconnect from electronics (Kindle E-Ink exception). Reflect & journal on the day's events, what you did right, what you could improve, what you are thankful for. Sleep 8 hours, if possible. 7 minimum.",
 		consistencyTitle: 'Consistency is King',
 		consistencySummary: 'Wake up at the same time each day, and check-in with the Pareto app within 5 minutes.',
 		deepWork: '3 hours of deep work',
-		deepWorkSummary: "Clock in, and clock out. There is no substitute for putting in the work, whether it's at your 9-5, you art, or your craft.",
-		eveningCreativity: "Evening Creativity",
-		creativitySummary: "Whether it's playing a musical instrument, reading, writing or anything in between - do something special, creative and relaxing at night.",
+		deepWorkSummary:
+			"Clock in, and clock out. There is no substitute for putting in the work, whether it's at your 9-5, you art, or your craft.",
+		eveningCreativity: 'Evening Creativity',
+		creativitySummary:
+			"Whether it's playing a musical instrument, reading, writing or anything in between - do something special, creative and relaxing at night.",
 		noSmoking: 'No Smoking or Nicotine',
-		noSmokingSummary: 'It creates short-term dopamine addiction that cripples your ability to perform at a world-class level. Respond to this shortly before your night-time routine.',
+		noSmokingSummary:
+			'It creates short-term dopamine addiction that cripples your ability to perform at a world-class level. Respond to this shortly before your night-time routine.',
 		noDrinking: 'No Alcohol on Weeknight',
-		noDrinkingSummary: 'To perform at a world-class level, you need to focus all of your focus and energy. Abstaining from alcohol during the work week helps you have better sleep and more energy the next day.',
+		noDrinkingSummary:
+			'To perform at a world-class level, you need to focus all of your focus and energy. Abstaining from alcohol during the work week helps you have better sleep and more energy the next day.',
 		eatTheFrog: 'Eat the Frog',
-		frogSummary: 'This is an expression that means to accomplish your primary daily objective. Each day, there is something that is truly important. Have you finished that thing?',
+		frogSummary:
+			'This is an expression that means to accomplish your primary daily objective. Each day, there is something that is truly important. Have you finished that thing?',
 		secondGoal: 'Eat another frog',
 		secondFrogSummary: 'There is an item that is second in importance, after eating the frog. Have you finished it?'
 	},
-	ug: {
+	lg: {
 		appTitle1: 'Pareto',
 		email: 'imeyilo yo okugeza nga gmail',
 		login: 'weyunge ku mukutu',
@@ -529,14 +548,16 @@ export const strings = {
 		confirmationCode: 'koodi ekaatiliza',
 		checkEmail: 'kebela imeyilo yo osobole okulaba koodi ekaatiliza',
 		resetPassword: 'Ssetinga pasiwaddi empya',
-   
+
 		lowerArena: 'The Arena',
-   
+
 		// landing copy
 		firstLanding: "Yiiga okuziimba pulogulaamu ku byuma bikalimagezi ngoli n'abemikwano wamu n'abasomesa.",
-		secondLanding: "Nga wetegekera omulimu gwo omupya ng'omuziimbi wa pulogulaamu z'okubyuma bikalimagezi, embalilila n'empaka bigya kuyamba osigala kumulamwa.",
-		thirdLanding: "Yiiga engeri y'okokozesezamu ebikozesebwa abawandiisi ba pulogulaamu z'ebyuma bikalimagezi era owandiike pulogulaamu yo esose osobole okuzimba portifolio yo,ela oyiige n'ebyenkizo mu ssomo lya computer science osobole okuyiita technical yintaviyu.",
-   
+		secondLanding:
+			"Nga wetegekera omulimu gwo omupya ng'omuziimbi wa pulogulaamu z'okubyuma bikalimagezi, embalilila n'empaka bigya kuyamba osigala kumulamwa.",
+		thirdLanding:
+			"Yiiga engeri y'okokozesezamu ebikozesebwa abawandiisi ba pulogulaamu z'ebyuma bikalimagezi era owandiike pulogulaamu yo esose osobole okuzimba portifolio yo,ela oyiige n'ebyenkizo mu ssomo lya computer science osobole okuyiita technical yintaviyu.",
+
 		//profile
 		saving: 'Okusseviinga...',
 		saveProfile: 'Sseviinga Profile',
@@ -546,7 +567,7 @@ export const strings = {
 		city: 'ekibuga',
 		country: 'ensi',
 		phone: "enamba y'esiimu",
-   
+
 		// interface
 		createNewUser: 'Create New User',
 		userDirectory: 'User Directory',
@@ -554,12 +575,12 @@ export const strings = {
 		mentorshipList: 'View Mentorships & Sprint Templates',
 		sandbox: 'Sandbox',
 		promoteUser: 'Upgrade User',
-   
+
 		basicTraining: 'Full-Stack JS',
 		technicalTraining: 'Dev Onboarding',
 		findingWork: 'Finding Work',
 		cityByCity: 'City Guides',
-		training: 'Training',
+		training: 'Onboarding',
 		// producto o applicacion
 		product: 'Build your Product',
 		interviewing: 'Tech Interviews',
@@ -578,18 +599,18 @@ export const strings = {
 		nowVerifying: 'otandise okakasa.',
 		sending: 'osiindika...',
 		sendConfirmation: 'Wereeza confirmation',
-   
+
 		startSprint: 'Tandiika Sprint',
 		sprintDescription:
 			"Sprint bibeela ebivuulu ebimala enaaku taano ebigezesa obumanyi byo. Sprints zino zakutandiika nga kulunaku olwa Monday nezikomezekebwa kulw'okutaano.",
 		create: 'Create',
-   
-		pageNoExist: "Eno peegi teliiyo!",
+
+		pageNoExist: 'Eno peegi teliiyo!',
 		returnToHome: 'Nyiga wano kuda ku peegi esooka.',
 		markAsComplete: 'Nyiga wano okuwaayo',
 		reviewWork: 'Yisaamu eliiso evayuma',
 		seeTheProof: 'Nyiga wano okulaba obukakafu',
-   
+
 		// Tuesday's Work
 		experienceModule: 'Experience Module',
 		coachDashboard: 'MyCoach Athletes',
@@ -601,9 +622,9 @@ export const strings = {
 		weeklyPerformanceAnalytics: 'okwekennenya Enkola ya wiiki ',
 		back: 'Emabega',
 		next: 'Ekiddako',
-		submitProof: "Waayo obukakafu obulaga nti omazze",
+		submitProof: 'Waayo obukakafu obulaga nti omazze',
 		notesForCoach: 'Notes ezakuwebwa kooki',
-		coachesNotes: "Notes kooki zaakoze",
+		coachesNotes: 'Notes kooki zaakoze',
 		submitLink: 'Link (GitHub, etc)',
 		attachment: 'Attachment for Proof of Completion',
 		messaging: 'Pareto League Chat',
@@ -624,7 +645,7 @@ export const strings = {
 		clickToDownload: 'Click here to Download',
 		requestRevisions: 'Request Revisions',
 		confirmAchievement: 'Confirm Achievement',
-   
+
 		dailyPoints: 'Obuboneero obufunidwa mu lunaku',
 		daily: 'Ebya bulinaku',
 		weekly: 'Ebya wiiki',
@@ -632,29 +653,28 @@ export const strings = {
 		upcomingMission: "By'olubililwa okola o'lwo olunaku",
 		finishedMissions: "Ebilubililwa by'osobodde otuukirizza",
 		goodWork: 'Omulimu omulungi',
-   
+
 		// tours
 		appFirst:
 			'byona bitandiika ne Pareto Training Camp - esomo elitegekedwa kumukutu ogwa yintaneeti,nga buli kumutendela ekyenkizo kyokola, omusomeso wo ekisomamu nakuwabula.',
 		appSecond:
 			"Pareto Arena kyekifo kyosobola okwegezesezamu enkolayo.Okusunkuluma mu industry eya tekinologiya kisoomoza nnyo ela wetanga enkola etedilila. Kino kisoboka nga wetanila zi 'sprints', osobole okwekanya enkola yo mw'ezo enaku entano.",
-		appThird: 
+		appThird:
 			"Library of Context kyekifo mwosobola okuyigila ebitundu 20 ku buli kikuumi, amageezi agagya okuuwa obuyigilize ebitundu 80 ku buli 100 mu industry eno eya tekinologiya, okusingila ndala essoma lya full-stack development. Mw'eno industry, ojakusanga ebisomesa esomo lya React, React, Node, Amazon Web Services kw'osa ne zi pakeegi ez'enkizo mukwetandikilawo kampuni eyiyo kwosa n'okuwandika software asobola okuntudibwa mwattu nofunawo kukassente",
 		appFourth:
 			"kano ka Pomodoro timer kaliwo kuyamba kwe'keneenya kumanya ebiseela by'omanze ku milimu gy'okola - Mu maaso, tugya kw'ongelamu akawiyilo akakuyamba o'trankinga pomodoros zo.",
 		appFifth:
 			"Pareto Instant Messenger gwe'mukuutu ogukuyambako osobola okw'ogelagazanya ne ba memba ba Pareto community, okuubuza ebibuzo, wamu n'okusanga sanga mu. Mesegi eza muntu ku muntu ziyitte direct message, zija kw'ongelwamu mumaaso.",
 		appSixth:
-			"Buli peegi elina enambula yaayo - koona kuka question mark akali mu laangi ya red osobole okumanya ebisiingawo",
-		homeFirst: 
-			"Wano osobola ocusaa eliinya lyo, profile picture yo wamu n'ebikwatako ebilabibwa buli'omu",
+			'Buli peegi elina enambula yaayo - koona kuka question mark akali mu laangi ya red osobole okumanya ebisiingawo',
+		homeFirst: "Wano osobola ocusaa eliinya lyo, profile picture yo wamu n'ebikwatako ebilabibwa buli'omu",
 		homeThird:
-		"Onsobola okwongela byono ebikwata ku pulojekiti gyoba okolako mw'ekyoekiseela, okusobola ozimba profile yo ela n'okuyamba omusomesa wo okuteegela by'olubililwa. Bino bisobola n'okuba ebiteeso byo",
-   
+			"Onsobola okwongela byono ebikwata ku pulojekiti gyoba okolako mw'ekyoekiseela, okusobola ozimba profile yo ela n'okuyamba omusomesa wo okuteegela by'olubililwa. Bino bisobola n'okuba ebiteeso byo",
+
 		expFirst:
-			"kino kyekimu kubigeezo ebili mu module eno! Osobola okunyiga ekimu kubyo okusobola okulaba byona ebigyikwaatako ela bino bija kulabikila ku mukono gwo ogwa dyo.",
+			'kino kyekimu kubigeezo ebili mu module eno! Osobola okunyiga ekimu kubyo okusobola okulaba byona ebigyikwaatako ela bino bija kulabikila ku mukono gwo ogwa dyo.',
 		expSecond:
-			"Kano akabokisi keeyimiliddewo nga kategeza oba ekintu kyona tekyinatandika, oba kiweewebwayo okugololwa, oba kimaliidwa",
+			'Kano akabokisi keeyimiliddewo nga kategeza oba ekintu kyona tekyinatandika, oba kiweewebwayo okugololwa, oba kimaliidwa',
 		expThird:
 			"Kino kikulaga ekigeezo kilimu EXP meeka - okusobola okufana lanka eya 'Advanced Beginner' olina okufuna EXP2000. EXP6500 okufuka 'Jr. Developer',  okufuuka engineer olina okufuna EXP10000 ela osobole okubeela nga omazze yo ebitundu 100 ku 100.",
 		expFourth:
@@ -671,8 +691,8 @@ export const strings = {
 			"Akabinja kaffe kakuula nga feena tulina kyetukola - okunyiiga kano akantu kija kugulawo modal empya kwosobola okuweereza ebiyigiliza bwo bw'okiliza nti bija kuyambako ba'memba ba'kabinja kaffe. Ela mu maaso, oja kufanayo Pareto Credits zo'sobola okuwanyisamu n'ofuna ebilabo oba ebya'maguzi. Amagezi, g'emanyi!",
 		arenaFirst:
 			"Luno olutimbe lukulaga wotuuse ku sprint - buno obubokisi buukulaga obuboneero bwofuna buli lunaku ne buli wiiki, ela nebintuddu ku buli 100 kwob'otusse kw'eyo sprint. Sprint eyo bw'ogimaliliza, ebitudutundu ku buli kikumi bibalilwa nga binvuunisibwamu obubonnero obwa career yo - kino kiba kilaaga ab'alidde mu banne akkendo mw'ekyo ekitundu kyo oba mu b'emikwano. ",
-		arenaSecond: 
-			 "Kino kyekimu ku bigendelelwa byolina okumaliliza leero - osobola okusoma endagilira, atte bwobela wetegesa, waayo obukakafu nti ddala omaliliza ekyo ekigendelelwa kyolunaku! Eno esobola okubeel selfie, oba akatambi oba okukakasa nti omanze ku honor system. Wabula tewelabira nti bulu luwayo lubeela nesaawo yayo n'olwekyo okuzuuka nga wayisa eddakika 10 kwezzo z'olina okuzuukuka, kiyinza obutabalilwa kooki wo kw'osa ba memba ba Pareto League. ",
+		arenaSecond:
+			"Kino kyekimu ku bigendelelwa byolina okumaliliza leero - osobola okusoma endagilira, atte bwobela wetegesa, waayo obukakafu nti ddala omaliliza ekyo ekigendelelwa kyolunaku! Eno esobola okubeel selfie, oba akatambi oba okukakasa nti omanze ku honor system. Wabula tewelabira nti bulu luwayo lubeela nesaawo yayo n'olwekyo okuzuuka nga wayisa eddakika 10 kwezzo z'olina okuzuukuka, kiyinza obutabalilwa kooki wo kw'osa ba memba ba Pareto League. ",
 		arenaThird:
 			"Wano wansi wogya okusanga olukalala lwa zi mission zona z'onobeela omazze okukola kw'olwo olunaku.",
 		arenaFourth:
@@ -680,10 +700,10 @@ export const strings = {
 
 		// new for primrose
 		// new for Primrose
-		
+
 		createTemplate: 'Zzimba Sprint Template',
-		editTemplateName: "Kyusa elinya lya Template",
-		startNewSprint: "Tandika Sprink empya",
+		editTemplateName: 'Kyusa elinya lya Template',
+		startNewSprint: 'Tandika Sprink empya',
 		editName: 'Kyusa elinya',
 		changePicture: 'Kyusa Profile Picture',
 		cancel: 'Sazaamu',
@@ -692,14 +712,14 @@ export const strings = {
 		school: 'Ensomeero',
 		pleaseChooseAnOption: 'Londako',
 		projects: 'Pulojekiti',
-		projectName: "Elinnya lya pulojekiti",
+		projectName: 'Elinnya lya pulojekiti',
 		projectIdeas: 'Ebilowoozo ebikwata ku pulojekiti',
-		noIdeasYet: "Tonafuuna kilowoozo kya pulojekiti? Nyiga akapeesa kano okugatako ekilowozo kyo ",
+		noIdeasYet: 'Tonafuuna kilowoozo kya pulojekiti? Nyiga akapeesa kano okugatako ekilowozo kyo ',
 		noProjectsYet: 'Tolina pulojekiti engenda maaso? Nyiiga kano akapeesa okugato pulojekiti',
-		enterNewProjectIdea: "Tekaamu ekilowoozo kyo ekya pulojekiti empya",
+		enterNewProjectIdea: 'Tekaamu ekilowoozo kyo ekya pulojekiti empya',
 		save: 'Ssevinga',
 		githubRepository: 'GitHub Repository',
-		ifNoSprints: "okutandiika Sprint empya, koona ku Link eli  wagulu awo",
+		ifNoSprints: 'okutandiika Sprint empya, koona ku Link eli  wagulu awo',
 		viewSprint: 'Laba Sprint',
 		myMentees: 'Mbenjigiliza',
 		options: 'ebyokulondako',
@@ -725,14 +745,15 @@ export const strings = {
 		eventDescription: 'Ebinyonyola ku event',
 		eventLink: 'Link ya event',
 		eventDate: "enaku z'omwenzi event lw'enabaayo",
-		eventStart: "Event lwentandika",
+		eventStart: 'Event lwentandika',
 		eventEnd: "Event lw'egwaa",
-		eventType: "Ekika kya event",
-		dashboard: 'Dashboard',
+		eventType: 'Ekika kya event',
+		dashboard: 'The Arena',
 		landingText: "Ebilowoozo by'abantu",
 		fullStackDev: 'Full Stack Dev',
 		localCommunities: 'Local Communities & Meetups',
-		suggestResources: "Nyiiga wan'okuwaayo ebiloowozo ku resource gy'olowoza elina okugatibwa to community knowledge base",
+		suggestResources:
+			"Nyiiga wan'okuwaayo ebiloowozo ku resource gy'olowoza elina okugatibwa to community knowledge base",
 		incubators: 'Start-up incubators & Venture Capital Investors',
 		startups: 'Interesting Start-Ups and Hiring Companies',
 		localNews: 'Local News & Industry Trends',
@@ -740,37 +761,45 @@ export const strings = {
 		streetAddress: "Endagililoo gy'obeera",
 		creditCardInfo: 'Credit Card Info',
 		myMentors: 'Abaasomesa bange',
-		apprenticeship: 'Full-Stack Apprenticehsip',
+		apprenticeship: 'Full-Stack Apprenticeship',
 		myCareer: 'MyCareer',
-		cheatsheets: "empapula okuliko kasasi(cheat sheets) 14, ezilina eby'okuyiga ebituuka ku bintu 20 kubuli 100 gewetaga okufuna bitundu 80 ku buli 100 eby'ezo result ziweetaga.",
+		cheatsheets:
+			"empapula okuliko kasasi(cheat sheets) 14, ezilina eby'okuyiga ebituuka ku bintu 20 kubuli 100 gewetaga okufuna bitundu 80 ku buli 100 eby'ezo result ziweetaga.",
 		flashcards: "Mataatu 52,okuyiga eby'ekinzo bya Javascript methods ne API's.",
 		stickers: "Workflow stickers ezi nakuyamba o'kujukira terminal commands ng'okozsa Git,AWS Amplify ne Bash",
-		workbooks: "Workbook ezinakuyamba okutukiliza pulojekiti ey'okusa ku potifoliyo,zimba wireframe mockups,teggeka bwiino agenda mu database yo, zimba architecture diagram, wamu n'ebilala bingi",
-		support: "Priority support & first access to new features.",
-		lifetime:"Okweganzanyiza mu Knowledge Base ne Arena okutagwawo",
+		workbooks:
+			"Workbook ezinakuyamba okutukiliza pulojekiti ey'okusa ku potifoliyo,zimba wireframe mockups,teggeka bwiino agenda mu database yo, zimba architecture diagram, wamu n'ebilala bingi",
+		support: 'Priority support & first access to new features.',
+		lifetime: 'Okweganzanyiza mu Knowledge Base ne Arena okutagwawo',
 		purchase: 'Gguula',
 		morningTitle: "Routine ey'okumakya enakuwaanguza",
-		morningSummary: "Ntandika olunaku lwo nebigendelelwa ebituuffu - wandiika by'olubililwa, lago'kusiima wekisanidde. Lya'bulungi emeere yo",
-		dailyExcerciseTitle: "duyilo",
+		morningSummary:
+			"Ntandika olunaku lwo nebigendelelwa ebituuffu - wandiika by'olubililwa, lago'kusiima wekisanidde. Lya'bulungi emeere yo",
+		dailyExcerciseTitle: 'duyilo',
 		exerciseSummary: "mu ssawa emu ng'ozukuse, kola duyilo okumala edikkika 20 oba 30",
 		meditation: 'Meditation',
-		meditationSummary: "bwomala okulya emeere okugeza essawa musaavu oba munaanaa,ssilikilila mu wewumuzze ko(meditate),obwongo budebujya enkolayo'eleme kukona",
+		meditationSummary:
+			"bwomala okulya emeere okugeza essawa musaavu oba munaanaa,ssilikilila mu wewumuzze ko(meditate),obwongo budebujya enkolayo'eleme kukona",
 		eveningTitle: "Routine ey'olwengulo enakuwaanguza",
-		eveningSummary: "Wewaale mu ko eby'empuliziganya(okugyako Kindle E-Ink exception).Fumitiliza mu'kubibaddewo o'lwolunaku,by'okooze obulungi,wewetanga okwongela'manyi, webake okumaala essawa 8, ekitono enyo 7",
+		eveningSummary:
+			"Wewaale mu ko eby'empuliziganya(okugyako Kindle E-Ink exception).Fumitiliza mu'kubibaddewo o'lwolunaku,by'okooze obulungi,wewetanga okwongela'manyi, webake okumaala essawa 8, ekitono enyo 7",
 		consistencyTitle: "Obutadilila y'esonga enkulu",
 		consistencySummary: "zzukuka esaawa zzezimu buli lunaku, okeebele Pareto app yo mu dakiika taano ng'ozuukuse",
 		deepWork: "Ssawa satu ezokola ng'atodililiza",
 		deepWorkSummary: "Clock in, and clock out.Teli kwewwala kkola n'akutekamu manyi mubulikimu ky'osalawo okukola",
-		eveningCreativity: "Evening Creativity",
-		creativitySummary: "Nga toneebaka, kolaayo ekikuwuumuza ebilowozo, osobola okusoma oba okuwandiika ebikunyumila oba okukuba ku bivuuga okugeza enaaga.",
+		eveningCreativity: 'Evening Creativity',
+		creativitySummary:
+			'Nga toneebaka, kolaayo ekikuwuumuza ebilowozo, osobola okusoma oba okuwandiika ebikunyumila oba okukuba ku bivuuga okugeza enaaga.',
 		noSmoking: 'Teli kufuuwa sigala oba taaba',
-		noSmokingSummary:"sigala aleetawo dopamine addiction ow'ekisela, kino ne kikulemesa okukola emilimu gy'obulungi.Nga tonebaka, kino kiseeko ebiloowozo", 
+		noSmokingSummary:
+			"sigala aleetawo dopamine addiction ow'ekisela, kino ne kikulemesa okukola emilimu gy'obulungi.Nga tonebaka, kino kiseeko ebiloowozo",
 		noDrinking: "Teli kunywa mwenge ku naku oz'okola",
-		noDrinkingSummary: "Okufuuka omukozi ow'akilaasi eyawangulu, weetega okutekay'omwoyo.Okwewala omwenge ku naku ezokola kikuyamba okuuma amanyi go wamu n'okwebaka obulungi",
+		noDrinkingSummary:
+			"Okufuuka omukozi ow'akilaasi eyawangulu, weetega okutekay'omwoyo.Okwewala omwenge ku naku ezokola kikuyamba okuuma amanyi go wamu n'okwebaka obulungi",
 		eatTheFrog: "Ly'ekikere",
-		frogSummary: "Eno gyogela evvunulwa nti koola ekiluubililwa byo, eky'olunaku. Buli lunaku lulina ekyo ekyokolebwa eky'ensonga, waakiikoze?",
+		frogSummary:
+			"Eno gyogela evvunulwa nti koola ekiluubililwa byo, eky'olunaku. Buli lunaku lulina ekyo ekyokolebwa eky'ensonga, waakiikoze?",
 		secondGoal: "Ly'ekikere ekilala",
 		secondFrogSummary: "bwomala okuly'ekikere,Waliyo ekintu eky'okubili eky'esonga,waakiikoze?"
-
 	}
 };
