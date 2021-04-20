@@ -17,7 +17,7 @@ export const strings = {
 
 		lowerArena: 'The Arena',
 
-		// landing copy
+		// landing copy, this is what is visible on the first page.
 		firstLanding: `Learn to code socially, with friends and mentors.`,
 		secondLanding: `Structure, accountability and friendly competition will keep you motivated while you train for a new
 		career.`,
@@ -47,13 +47,11 @@ export const strings = {
 		findingWork: 'Finding Work',
 		cityByCity: 'City Guides',
 		training: 'Onboarding',
-		// producto o applicacion
 		product: 'Build your Product',
 		interviewing: 'Tech Interviews',
 		arena: 'The Arena',
 		arenaSprints: 'Arena Sprints',
 		mentorship: 'Mentorships',
-		// tournament: torneo,
 		achievement: 'Achievement',
 		viewDailyAchievements: '',
 		neuroProfile: 'Neuro Athletic Profile',
@@ -77,7 +75,6 @@ export const strings = {
 		reviewWork: 'Review Work',
 		seeTheProof: 'Press to See Proof',
 
-		// Tuesday's Work
 		experienceModule: 'Experience Module',
 		coachDashboard: 'MyCoach Athletes',
 		pickSprint: 'Select Sprint',
@@ -119,49 +116,6 @@ export const strings = {
 		upcomingMission: 'Daily Achievements',
 		finishedMissions: 'Finished Achievements',
 		goodWork: 'Good Work',
-
-		// tours
-		appFirst:
-			'It starts with the Pareto Training Camp - an online training program where you will complete achievements, and send them to your mentor for review.',
-		appSecond:
-			'The Pareto Arena is where you can test your work ethic and habits. Success in a field like the tech industry can be demanding, and it requires a lifestyle that you can maintain in the long term. By engaging in "sprints", you can track your work and lifestyle habits over the course of 5 days - and see how consistently you are able to maintain a schedule that of a top-performer in your field.',
-		appThird: `The Library of Context is a place for you to learn the 20% of knowledge that will give you 80% of context in the tech industry, specifically full-stack development. In the Library you'll find curated resources on React, Node, Amazon Web Services and specific packages that you need for enterprise level software and scrappy startups alike.`,
-		appFourth:
-			'A simple Pomodoro timer to help you track the time you spend on work - in the future, we will add features to track your pomodoros over time.',
-		appFifth:
-			'The Pareto Instant Messenger allows you to message the members of the Pareto community, to ask questions, and to joke around. We will be adding in direct messages soon.',
-		appSixth:
-			"Every page has it's own tour - click on the red question mark icon next to each modules header to learn more.",
-		homeFirst: 'Here you can edit your name, profile picture and bio that is available publicly.',
-		homeThird:
-			'Here you can add details about the projects you are working on, to build towards your public profile and let your mentor understand what you are working towards. They can also be concepts or pure ideas.',
-		expFirst:
-			'This is one of the assignments within this particular module! You can click or tap one of them, to have the full details displayed on the right hand side.',
-		expSecond:
-			'This checkbox represents whether the item has not been started, has been submitted for review, or is completed.',
-		expThird:
-			'This is how many EXP this assignment is worth - to achieve the rank of "Advanced Beginner" you must earn 2000EXP. To become a "Jr. Developer" you must earn 6500 EXP. To become an engineer, you must earn 10000EXP for 100% completion.',
-		expFourth:
-			'These are the full instructions for completing the assignment. They usually contain some valuable information to provide context for why you are doing them, and at the bottom include detailed instructions for what you must submit to your mentor.',
-		expFifth:
-			'This is the button that you click to submit your work. There are three parts - first, writing notes for your coach to explain any issues or positives that came up, then including a link to a related GitHub repository/online website, and finally a space to upload a document (such as a PDF, screenshot, etc.). Do not, in general, upload videos to the platform. Instead, please make a YouTube account, upload any videos there, and then send a link to the video in the submission modal.',
-		expSixth:
-			'There are three total modules - Onboarding & Training Camp, Building a Product, and Interviewing for Full-Time Work.',
-
-		libraryFirst:
-			"There are three parts of our public, crowd-sourced Library of Context - curated resources on React, Node.js and Amazon Web Services in 'Technical Training'. In 'Finding Work', these resources will give you insights into popular job boards, how to effectively conduct a job search, start a new start-up, or learn about digital nomadism. The final is the 'City Guide', where we lay out information about the tech scene in a given city or region- for example, what start-up incubators, Meetups, venture capital firms, coding bootcamps and companies are located there? To switch between the cateogories, simply tap on each one.",
-		librarySecond:
-			'This is one of the sub-categories that contain curated tutorials and resources - by tapping or clicking it, you will open a modal that will have a list of items. Click on one of them top read a summary, and then open a link to view it in full. Inside each sub-category, you can suggest resources yourself that will be of help to the community and earn Pareto Credits.',
-		libraryThird:
-			'Our community is stronger when we each contribute - clicking this icon will open a modal for you upload your own resource that you believe can add value to members in our community. In the future, you will earn Pareto Credits that you can trade in for prizes, products or who knows what. Knowledge is power!',
-		arenaFirst:
-			'This screen shows the progress of your current sprint - these boxes show you the current Daily & Weekly Points score, as well as your completion percentages for the Sprint. At the end of the Sprint, the completion percentages are calculated towards your career averages - showing who is on the top of the leaderboard in your community or group of friends.',
-		arenaSecond: `This is one of your daily objectives - you can read the instructions, and when you are ready - submit proof that you accomplished it! That could be a selfie, audio file - or even just checking that it's done on the honor system. Keep in mind, that all submissions have timestamps - if you check in more than 10 minutes after your daily wake-up time, it may not count and will be audited by your coach and Pareto League members.`,
-		arenaThird: 'Below here will be a list of the missions you have already completed for the day.',
-		arenaFourth:
-			'You can click this link to start another sprint for the following-week! Keep in mind that you need to start it the Sunday before.',
-
-		// new for Primrose
 
 		createTemplate: 'Create Sprint Template',
 		editTemplateName: 'Edit the Template Name',
@@ -224,6 +178,8 @@ export const strings = {
 		myMentors: 'My Mentors',
 		apprenticeship: 'Full-Stack Apprenticeship',
 		myCareer: 'MyCareer',
+
+		// marketing descriptions
 		cheatsheets:
 			'14 laminated cheat sheets, with the 20% of knowledge needed to achieve 80% of the results you are looking for.',
 		flashcards: "52 flash-cards, which doubles as a deck of cards, to learn the core JavaScript methods & API's.",
@@ -233,6 +189,8 @@ export const strings = {
 		support: 'Priority support & first access to new features.',
 		lifetime: 'Lifetime access to the Knowledge Base & Arena',
 		purchase: 'Purchase',
+
+		// productivity to-do list
 		morningTitle: 'Morning Routine for Success',
 		morningSummary:
 			'Start your day with the right intentions - re-write your goals, verbalize positive affirmations & express gratitude. Eat food. Calisthenic exercises.',
@@ -262,7 +220,315 @@ export const strings = {
 		frogSummary:
 			'This is an expression that means to accomplish your primary daily objective. Each day, there is something that is truly important. Have you finished that thing?',
 		secondGoal: 'Eat another frog',
-		secondFrogSummary: 'There is an item that is second in importance, after eating the frog. Have you finished it?'
+		secondFrogSummary:
+			'There is an item that is second in importance, after eating the frog. Have you finished it?',
+
+		// tours that describe what is going on in the application
+		appFirst:
+			'It starts with the Pareto Training Camp - an online training program where you will complete achievements, and send them to your mentor for review.',
+		appSecond:
+			'The Pareto Arena is where you can test your work ethic and habits. Success in a field like the tech industry can be demanding, and it requires a lifestyle that you can maintain in the long term. By engaging in "sprints", you can track your work and lifestyle habits over the course of 5 days - and see how consistently you are able to maintain a schedule that of a top-performer in your field.',
+		appThird: `The Library of Context is a place for you to learn the 20% of knowledge that will give you 80% of context in the tech industry, specifically full-stack development. In the Library you'll find curated resources on React, Node, Amazon Web Services and specific packages that you need for enterprise level software and scrappy startups alike.`,
+		appFourth:
+			'A simple Pomodoro timer to help you track the time you spend on work - in the future, we will add features to track your pomodoros over time.',
+		appFifth:
+			'The Pareto Instant Messenger allows you to message the members of the Pareto community, to ask questions, and to joke around. We will be adding in direct messages soon.',
+		appSixth:
+			"Every page has it's own tour - click on the red question mark icon next to each modules header to learn more.",
+		homeFirst: 'Here you can edit your name, profile picture and bio that is available publicly.',
+		homeThird:
+			'Here you can add details about the projects you are working on, to build towards your public profile and let your mentor understand what you are working towards. They can also be concepts or pure ideas.',
+		expFirst:
+			'This is one of the assignments within this particular module! You can click or tap one of them, to have the full details displayed on the right hand side.',
+		expSecond:
+			'This checkbox represents whether the item has not been started, has been submitted for review, or is completed.',
+		expThird:
+			'This is how many EXP this assignment is worth - to achieve the rank of "Advanced Beginner" you must earn 2000EXP. To become a "Jr. Developer" you must earn 6500 EXP. To become an engineer, you must earn 10000EXP for 100% completion.',
+		expFourth:
+			'These are the full instructions for completing the assignment. They usually contain some valuable information to provide context for why you are doing them, and at the bottom include detailed instructions for what you must submit to your mentor.',
+		expFifth:
+			'This is the button that you click to submit your work. There are three parts - first, writing notes for your coach to explain any issues or positives that came up, then including a link to a related GitHub repository/online website, and finally a space to upload a document (such as a PDF, screenshot, etc.). Do not, in general, upload videos to the platform. Instead, please make a YouTube account, upload any videos there, and then send a link to the video in the submission modal.',
+		expSixth:
+			'There are three total modules - Onboarding & Training Camp, Building a Product, and Interviewing for Full-Time Work.',
+
+		libraryFirst:
+			"There are three parts of our public, crowd-sourced Library of Context - curated resources on React, Node.js and Amazon Web Services in 'Technical Training'. In 'Finding Work', these resources will give you insights into popular job boards, how to effectively conduct a job search, start a new start-up, or learn about digital nomadism. The final is the 'City Guide', where we lay out information about the tech scene in a given city or region- for example, what start-up incubators, Meetups, venture capital firms, coding bootcamps and companies are located there? To switch between the cateogories, simply tap on each one.",
+		librarySecond:
+			'This is one of the sub-categories that contain curated tutorials and resources - by tapping or clicking it, you will open a modal that will have a list of items. Click on one of them top read a summary, and then open a link to view it in full. Inside each sub-category, you can suggest resources yourself that will be of help to the community and earn Pareto Credits.',
+		libraryThird:
+			'Our community is stronger when we each contribute - clicking this icon will open a modal for you upload your own resource that you believe can add value to members in our community. In the future, you will earn Pareto Credits that you can trade in for prizes, products or who knows what. Knowledge is power!',
+		arenaFirst:
+			'This screen shows the progress of your current sprint - these boxes show you the current Daily & Weekly Points score, as well as your completion percentages for the Sprint. At the end of the Sprint, the completion percentages are calculated towards your career averages - showing who is on the top of the leaderboard in your community or group of friends.',
+		arenaSecond: `This is one of your daily objectives - you can read the instructions, and when you are ready - submit proof that you accomplished it! That could be a selfie, audio file - or even just checking that it's done on the honor system. Keep in mind, that all submissions have timestamps - if you check in more than 10 minutes after your daily wake-up time, it may not count and will be audited by your coach and Pareto League members.`,
+		arenaThird: 'Below here will be a list of the missions you have already completed for the day.',
+		arenaFourth:
+			'You can click this link to start another sprint for the following-week! Keep in mind that you need to start it the Sunday before.'
+	},
+	// acholi work, below for Anwar
+	ac: {
+		appTitle1: 'Pareto',
+		email: 'Email',
+		login: 'Sign In',
+		logout: 'Logout',
+		loggingIn: 'Signing In...',
+		signup: 'Sign Up',
+		signingUp: 'Now Registering...',
+		password: 'Password',
+		oldPassword: 'Old Password',
+		newPassword: 'New Password',
+		confirm: 'Confirm Password',
+		confirmationCode: 'Confirmation Code',
+		checkEmail: 'Please check your email for the code.',
+		resetPassword: 'Reset Password',
+
+		lowerArena: 'The Arena',
+
+		// landing copy, this is what is visible on the first page.
+		firstLanding: `Learn to code socially, with friends and mentors.`,
+		secondLanding: `Structure, accountability and friendly competition will keep you motivated while you train for a new
+		career.`,
+		thirdLanding: `Learn how to use the tools of a developer, build your first product for your portfolio, and learn essential computer
+		science to ace the technical interview.`,
+
+		//profile
+		saving: 'Saving...',
+		saveProfile: 'Save Profile',
+		firstName: 'First Name',
+		lastName: 'Last Name',
+		github: 'GitHub Username',
+		city: 'City',
+		country: 'Country',
+		phone: 'Phone',
+
+		// interface
+		createNewUser: 'Create New User',
+		userDirectory: 'User Directory',
+		matchUsers: 'Match Users',
+		mentorshipList: 'View Mentorships & Sprint Templates',
+		sandbox: 'Sandbox',
+		promoteUser: 'Upgrade User',
+
+		basicTraining: 'Full-Stack JS',
+		technicalTraining: 'Dev Onboarding',
+		findingWork: 'Finding Work',
+		cityByCity: 'City Guides',
+		training: 'Onboarding',
+		product: 'Build your Product',
+		interviewing: 'Tech Interviews',
+		arena: 'The Arena',
+		arenaSprints: 'Arena Sprints',
+		mentorship: 'Mentorships',
+		achievement: 'Achievement',
+		viewDailyAchievements: '',
+		neuroProfile: 'Neuro Athletic Profile',
+		completionPercentage: 'Completion Percentage',
+		leaderboard: 'Leaderboard',
+		position: 'Rank',
+		library: 'Library of Context',
+		verify: 'Verify',
+		nowVerifying: 'Now Verifying..',
+		sending: 'Sending...',
+		sendConfirmation: 'Send Confirmation',
+
+		startSprint: 'Start a Sprint',
+		sprintDescription:
+			'Sprints are 5-Day events where you measure your ability to perform at the highest level. Currently, sprints must start on a Monday and Finish on a Friday.',
+		create: 'Create',
+
+		pageNoExist: "Sorry, this page doesn't exist!",
+		returnToHome: 'here to go back to the home page.',
+		markAsComplete: 'Click here to submit',
+		reviewWork: 'Review Work',
+		seeTheProof: 'Press to See Proof',
+
+		experienceModule: 'Experience Module',
+		coachDashboard: 'MyCoach Athletes',
+		pickSprint: 'Select Sprint',
+		starts: 'Starts',
+		finishes: 'Finishes',
+		close: 'Close',
+		delete: 'Delete',
+		weeklyPerformanceAnalytics: 'Weekly Performance Analytics',
+		back: 'Back',
+		next: 'Next',
+		submitProof: 'Submit Proof',
+		notesForCoach: 'Notes for Coach',
+		coachesNotes: "Coach's Notes",
+		submitLink: 'Link (GitHub, etc)',
+		attachment: 'Attachment for Proof',
+		messaging: 'Pareto League Chat',
+		enterMessage: 'Type your message here',
+		achievements: 'Achievements',
+		points: 'Points',
+		viewExperience: 'View Progress',
+		resources: 'Resources',
+		openLink: 'Open Link in a New Tab',
+		confirmation: 'Confirmation',
+		rank: 'Rank',
+		name: 'Name',
+		score: 'Score',
+		viewProfile: 'View Profile',
+		creating: 'Creating...',
+		reviewFor: 'Review for',
+		description: 'Description',
+		clickToDownload: 'Click here to Download',
+		requestRevisions: 'Request Revisions',
+		confirmAchievement: 'Confirm Achievement',
+
+		dailyPoints: 'Daily Points',
+		daily: 'Daily',
+		weekly: 'Weekly',
+		weeklyPoints: 'Weekly Points',
+		upcomingMission: 'Daily Achievements',
+		finishedMissions: 'Finished Achievements',
+		goodWork: 'Good Work',
+
+		createTemplate: 'Create Sprint Template',
+		editTemplateName: 'Edit the Template Name',
+		startNewSprint: 'Start New Sprint',
+		editName: 'Edit Name',
+		changePicture: 'Change Profile Picture',
+		cancel: 'Cancel',
+		organization: 'Organization',
+		bio: 'Public Bio',
+		school: 'School',
+		pleaseChooseAnOption: 'Please Choose an Option',
+		projects: 'Projects',
+		projectName: 'Project Name',
+		projectIdeas: 'Project Notes & Ideas',
+		noIdeasYet: 'No project ideas yet? Please click the button below to add one.',
+		noProjectsYet: 'No active project yet? Please click the button below to add one.',
+		enterNewProjectIdea: 'Enter New Project Idea',
+		save: 'Save',
+		githubRepository: 'GitHub Repository',
+		ifNoSprints: 'Start a new sprint by clicking on the link above!',
+		viewSprint: 'View Sprint',
+		myMentees: 'My Mentees',
+		options: 'Options',
+		morning: 'Morning',
+		workday: 'Workday',
+		evening: 'Evening',
+		sabbath: 'Sabbath',
+		weekend: 'Weekend',
+		loading: 'Loading',
+		selectTemplate: 'Choose Your Sprint Template',
+		selectPlayers: 'Choose Your Competitors',
+		trashTalkPSA: 'Optional: Trash talk. Send a motivating, or withering, message to your competition.',
+		viewProof: 'View Proof',
+		noProof: 'No proof was submitted',
+		arenaNav: 'Arena',
+		learnNav: 'Learn',
+		libraryNav: 'Library',
+		chatNav: 'Chat',
+		profileNav: 'Profile',
+		chatroom: 'League Chat',
+		createEvent: 'Create Event',
+		eventName: 'Event Name',
+		eventDescription: 'Event Description',
+		eventLink: 'Event Link',
+		eventDate: 'Event Date',
+		eventStart: 'Event Start',
+		eventEnd: 'Event End',
+		eventType: 'Event Type',
+		dashboard: 'The Arena',
+		landingText: 'What people are saying',
+		fullStackDev: 'Full Stack Dev',
+		localCommunities: 'Local Communities & Meetups',
+		suggestResources: 'Click here to suggest a resource into our community knowledge base',
+		incubators: 'Start-up incubators & Venture Capital Investors',
+		startups: 'Interesting Start-Ups and Hiring Companies',
+		localNews: 'Local News & Industry Trends',
+		fullName: 'Full Name',
+		streetAddress: 'Street Address',
+		creditCardInfo: 'Credit Card Info',
+		myMentors: 'My Mentors',
+		apprenticeship: 'Full-Stack Apprenticeship',
+		myCareer: 'MyCareer',
+
+		// marketing descriptions
+		cheatsheets:
+			'14 laminated cheat sheets, with the 20% of knowledge needed to achieve 80% of the results you are looking for.',
+		flashcards: "52 flash-cards, which doubles as a deck of cards, to learn the core JavaScript methods & API's.",
+		stickers: 'Workflow stickers, helping you memorize crucial terminal commands using Git, AWS Amplify & Bash.',
+		workbooks:
+			'Interactive, physical workbook to help you ideate your capstone portfolio project/product, design wireframe mockups, model the information to store in your database, create an architecture diagram, and more.',
+		support: 'Priority support & first access to new features.',
+		lifetime: 'Lifetime access to the Knowledge Base & Arena',
+		purchase: 'Purchase',
+
+		// productivity to-do list
+		morningTitle: 'Morning Routine for Success',
+		morningSummary:
+			'Start your day with the right intentions - re-write your goals, verbalize positive affirmations & express gratitude. Eat food. Calisthenic exercises.',
+		dailyExcerciseTitle: 'Daily Exercise',
+		exerciseSummary:
+			'20 minutes of intense excercises or 30 minutes of moderate excercise within one hour of waking up.',
+		meditation: 'Meditation',
+		meditationSummary: 'Right after lunch, around 1 or 2, meditate to avoid hitting the performance trough.',
+		eveningTitle: 'Evening Routine for Success',
+		eveningSummary:
+			"Disconnect from electronics (Kindle E-Ink exception). Reflect & journal on the day's events, what you did right, what you could improve, what you are thankful for. Sleep 8 hours, if possible. 7 minimum.",
+		consistencyTitle: 'Consistency is King',
+		consistencySummary: 'Wake up at the same time each day, and check-in with the Pareto app within 5 minutes.',
+		deepWork: '3 hours of deep work',
+		deepWorkSummary:
+			"Clock in, and clock out. There is no substitute for putting in the work, whether it's at your 9-5, you art, or your craft.",
+		eveningCreativity: 'Evening Creativity',
+		creativitySummary:
+			"Whether it's playing a musical instrument, reading, writing or anything in between - do something special, creative and relaxing at night.",
+		noSmoking: 'No Smoking or Nicotine',
+		noSmokingSummary:
+			'It creates short-term dopamine addiction that cripples your ability to perform at a world-class level. Respond to this shortly before your night-time routine.',
+		noDrinking: 'No Alcohol on Weeknight',
+		noDrinkingSummary:
+			'To perform at a world-class level, you need to focus all of your focus and energy. Abstaining from alcohol during the work week helps you have better sleep and more energy the next day.',
+		eatTheFrog: 'Eat the Frog',
+		frogSummary:
+			'This is an expression that means to accomplish your primary daily objective. Each day, there is something that is truly important. Have you finished that thing?',
+		secondGoal: 'Eat another frog',
+		secondFrogSummary:
+			'There is an item that is second in importance, after eating the frog. Have you finished it?',
+
+		// tours that describe what is going on in the application
+		appFirst:
+			'It starts with the Pareto Training Camp - an online training program where you will complete achievements, and send them to your mentor for review.',
+		appSecond:
+			'The Pareto Arena is where you can test your work ethic and habits. Success in a field like the tech industry can be demanding, and it requires a lifestyle that you can maintain in the long term. By engaging in "sprints", you can track your work and lifestyle habits over the course of 5 days - and see how consistently you are able to maintain a schedule that of a top-performer in your field.',
+		appThird: `The Library of Context is a place for you to learn the 20% of knowledge that will give you 80% of context in the tech industry, specifically full-stack development. In the Library you'll find curated resources on React, Node, Amazon Web Services and specific packages that you need for enterprise level software and scrappy startups alike.`,
+		appFourth:
+			'A simple Pomodoro timer to help you track the time you spend on work - in the future, we will add features to track your pomodoros over time.',
+		appFifth:
+			'The Pareto Instant Messenger allows you to message the members of the Pareto community, to ask questions, and to joke around. We will be adding in direct messages soon.',
+		appSixth:
+			"Every page has it's own tour - click on the red question mark icon next to each modules header to learn more.",
+		homeFirst: 'Here you can edit your name, profile picture and bio that is available publicly.',
+		homeThird:
+			'Here you can add details about the projects you are working on, to build towards your public profile and let your mentor understand what you are working towards. They can also be concepts or pure ideas.',
+		expFirst:
+			'This is one of the assignments within this particular module! You can click or tap one of them, to have the full details displayed on the right hand side.',
+		expSecond:
+			'This checkbox represents whether the item has not been started, has been submitted for review, or is completed.',
+		expThird:
+			'This is how many EXP this assignment is worth - to achieve the rank of "Advanced Beginner" you must earn 2000EXP. To become a "Jr. Developer" you must earn 6500 EXP. To become an engineer, you must earn 10000EXP for 100% completion.',
+		expFourth:
+			'These are the full instructions for completing the assignment. They usually contain some valuable information to provide context for why you are doing them, and at the bottom include detailed instructions for what you must submit to your mentor.',
+		expFifth:
+			'This is the button that you click to submit your work. There are three parts - first, writing notes for your coach to explain any issues or positives that came up, then including a link to a related GitHub repository/online website, and finally a space to upload a document (such as a PDF, screenshot, etc.). Do not, in general, upload videos to the platform. Instead, please make a YouTube account, upload any videos there, and then send a link to the video in the submission modal.',
+		expSixth:
+			'There are three total modules - Onboarding & Training Camp, Building a Product, and Interviewing for Full-Time Work.',
+
+		libraryFirst:
+			"There are three parts of our public, crowd-sourced Library of Context - curated resources on React, Node.js and Amazon Web Services in 'Technical Training'. In 'Finding Work', these resources will give you insights into popular job boards, how to effectively conduct a job search, start a new start-up, or learn about digital nomadism. The final is the 'City Guide', where we lay out information about the tech scene in a given city or region- for example, what start-up incubators, Meetups, venture capital firms, coding bootcamps and companies are located there? To switch between the cateogories, simply tap on each one.",
+		librarySecond:
+			'This is one of the sub-categories that contain curated tutorials and resources - by tapping or clicking it, you will open a modal that will have a list of items. Click on one of them top read a summary, and then open a link to view it in full. Inside each sub-category, you can suggest resources yourself that will be of help to the community and earn Pareto Credits.',
+		libraryThird:
+			'Our community is stronger when we each contribute - clicking this icon will open a modal for you upload your own resource that you believe can add value to members in our community. In the future, you will earn Pareto Credits that you can trade in for prizes, products or who knows what. Knowledge is power!',
+		arenaFirst:
+			'This screen shows the progress of your current sprint - these boxes show you the current Daily & Weekly Points score, as well as your completion percentages for the Sprint. At the end of the Sprint, the completion percentages are calculated towards your career averages - showing who is on the top of the leaderboard in your community or group of friends.',
+		arenaSecond: `This is one of your daily objectives - you can read the instructions, and when you are ready - submit proof that you accomplished it! That could be a selfie, audio file - or even just checking that it's done on the honor system. Keep in mind, that all submissions have timestamps - if you check in more than 10 minutes after your daily wake-up time, it may not count and will be audited by your coach and Pareto League members.`,
+		arenaThird: 'Below here will be a list of the missions you have already completed for the day.',
+		arenaFourth:
+			'You can click this link to start another sprint for the following-week! Keep in mind that you need to start it the Sunday before.'
 	},
 	es: {
 		appTitle1: 'Pareto',
