@@ -116,7 +116,6 @@ export const strings = {
 		upcomingMission: 'Daily Achievements',
 		finishedMissions: 'Finished Achievements',
 		goodWork: 'Good Work',
-
 		createTemplate: 'Create Sprint Template',
 		editTemplateName: 'Edit the Template Name',
 		startNewSprint: 'Start New Sprint',
@@ -263,6 +262,8 @@ export const strings = {
 		arenaThird: 'Below here will be a list of the missions you have already completed for the day.',
 		arenaFourth:
 			'You can click this link to start another sprint for the following-week! Keep in mind that you need to start it the Sunday before.'
+	},
+		
 	},
 	// acholi work, below for Anwar
 	ac: {
